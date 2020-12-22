@@ -1,4 +1,4 @@
-lijst = open("lijst.txt").read().split()
+lijst = open("lijstopgave2.txt").read().split()
 
 teller = 0
 tteller = 0
